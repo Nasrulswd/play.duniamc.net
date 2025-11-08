@@ -1,0 +1,2 @@
+# play.duniamc.net
+resourcepack
